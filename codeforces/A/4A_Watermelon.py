@@ -5,7 +5,7 @@ Difficulty: A
 """
 
 
-#Answer:
+#Method1:
 w = int(input())
 if w % 2 == 0 and w > 2:
 	print("YES")
@@ -13,6 +13,6 @@ else:
 	print("NO")
 
   
-#Answer:
+#Method2:
 w = int(input())
 print("YES" if w % 2 == 0 and w > 2 else "NO")
