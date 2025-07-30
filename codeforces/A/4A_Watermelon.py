@@ -6,8 +6,6 @@ Difficulty: A
 Solution Explanation:
 To divide the watermelon into two even parts with at least one piece each, 
 the weight must be even and greater than 2. Number 2 doesn't satisfy this.
-
-برای اینکه هندوانه بین دو نفر تقسیم بشه و هر کدوم حداقل یک قسمت زوج رو بگیرن باید وزن هندوانه زوج و بزرگتر از 2 باشه چون وزن 2 امکان تقسیم شدن به دو قسمت زوج رو نداره
 """
 
 
