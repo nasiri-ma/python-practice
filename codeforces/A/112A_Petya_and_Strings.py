@@ -1,5 +1,5 @@
 """
-Problem: 
+Problem: Petya and Strings
 Link: https://codeforces.com/problemset/problem/112/A
 Difficulty: A
 ---------------------------------------------------------------------------
