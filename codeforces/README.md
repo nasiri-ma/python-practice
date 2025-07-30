@@ -20,5 +20,3 @@ The goal is to improve problem-solving skills and prepare for competitive progra
 If you have any suggestions or improvements, feel free to open an issue or submit a pull request!
 
 ---
-
-**این پوشه شامل حل تمرین‌ها و مسائل سایت Codeforces با زبان پایتون است. تمرین‌ها بر اساس درجه سختی و دسته‌بندی مسابقات مرتب شده‌اند. هدفم از این کار تقویت مهارت حل مسئله و آماده‌سازی برای مسابقات برنامه‌نویسی است. اگر پیشنهادی داری یا دوست داری همکاری کنی، خوشحال می‌شم بشنوم!**
