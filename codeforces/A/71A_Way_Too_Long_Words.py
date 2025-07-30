@@ -2,10 +2,7 @@
 Problem: Way Too Long Words
 Link: https://codeforces.com/problemset/problem/71/A
 Difficulty: A
-"""
-
-
-"""
+---------------------------------------------------------------------------
 Solution Explanation:
 First, a function handles long words. It checks the length of the word, takes the first and last characters using index 0 and -1, and places the number of characters in between them as a string.
 In the first loop, we read all words from the input and pass each one to the abbreviation function, then store the result in a list.
