@@ -2,10 +2,7 @@
 Problem: Watermelon
 Link: https://codeforces.com/problemset/problem/4/A
 Difficulty: A
-"""
-
-
-"""
+---------------------------------------------------------------------------
 Solution Explanation:
 To divide the watermelon into two even parts with at least one piece each, 
 the weight must be even and greater than 2. Number 2 doesn't satisfy this.
