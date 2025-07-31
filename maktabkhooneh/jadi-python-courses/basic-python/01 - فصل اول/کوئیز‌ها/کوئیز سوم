@@ -1,6 +1,0 @@
-01 - Corect Answer: 8   1   2
-02 - Corect Answer: پرانتز ()
-03 - Corect Answer: abbccc
-04 - Corect Answer: print( str(var % 10) + str(var // 10) )
-05 - Corect Answer: ( var // 10 ) % 10
-06 - Corect Answer: <class 'str'>
