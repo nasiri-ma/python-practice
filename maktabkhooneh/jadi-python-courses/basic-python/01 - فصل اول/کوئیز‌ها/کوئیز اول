@@ -1,2 +1,3 @@
-01 - زمانی که این عبارت رو در ترمینال تایپ می کنیم چه چیزی چاپ می شود؟
-
+01 - Corect Answer: str
+02 - Corect Answer: <class 'int'>
+03 - Corect Answer: print("Hello World!")
